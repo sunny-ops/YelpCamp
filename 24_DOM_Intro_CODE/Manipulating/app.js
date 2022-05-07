@@ -1,3 +1,10 @@
+const allImages = document.getElementsByTagName('img');
+// for (let img of allImages) {
+//     console.log(img.src);
+//     // img.src = 'sdfssdf';
+// }
+
+const squareImages = document.getElementsByClassName("square");
 const allLinks = document.querySelectorAll('a');
 
 // for (let link of allLinks) {
